@@ -1,0 +1,12 @@
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.csproj.AssemblyReference.cache
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.GeneratedMSBuildEditorConfig.editorconfig
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.AssemblyInfoInputs.cache
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.AssemblyInfo.cs
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.csproj.CoreCompileInputs.cache
+/media/danedung/dungStorage/Server/API/dungDAL/bin/Debug/net6.0/dungDAL.deps.json
+/media/danedung/dungStorage/Server/API/dungDAL/bin/Debug/net6.0/dungDAL.dll
+/media/danedung/dungStorage/Server/API/dungDAL/bin/Debug/net6.0/dungDAL.pdb
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.dll
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/refint/dungDAL.dll
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.pdb
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/ref/dungDAL.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/danedung/dungStorage/dungAPI/dungAPI.csproj": {}
+    "/media/danedung/dungStorage/Server/API/dungAPI/dungAPI.csproj": {}
   },
   "projects": {
-    "/media/danedung/dungStorage/dungAPI/dungAPI.csproj": {
+    "/media/danedung/dungStorage/Server/API/dungAPI/dungAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/danedung/dungStorage/dungAPI/dungAPI.csproj",
+        "projectUniqueName": "/media/danedung/dungStorage/Server/API/dungAPI/dungAPI.csproj",
         "projectName": "dungAPI",
-        "projectPath": "/media/danedung/dungStorage/dungAPI/dungAPI.csproj",
+        "projectPath": "/media/danedung/dungStorage/Server/API/dungAPI/dungAPI.csproj",
         "packagesPath": "/home/danedung/.nuget/packages/",
-        "outputPath": "/media/danedung/dungStorage/dungAPI/obj/",
+        "outputPath": "/media/danedung/dungStorage/Server/API/dungAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danedung/.nuget/NuGet/NuGet.Config"

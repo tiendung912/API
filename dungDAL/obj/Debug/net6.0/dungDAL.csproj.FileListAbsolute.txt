@@ -10,3 +10,5 @@
 /media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/refint/dungDAL.dll
 /media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.pdb
 /media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/ref/dungDAL.dll
+/media/danedung/dungStorage/Server/API/dungDAL/bin/Debug/net6.0/dungDAL.runtimeconfig.json
+/media/danedung/dungStorage/Server/API/dungDAL/obj/Debug/net6.0/dungDAL.genruntimeconfig.cache

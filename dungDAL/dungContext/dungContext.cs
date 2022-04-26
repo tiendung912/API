@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace dungDAL.dungContext
 {
-    public class dungContext:DbContext
+    public class dungDbContext:DbContext
     {
-        public dungContext(DbContextOptions<dungContext> options):base(options)
+        public dungDbContext(DbContextOptions<dungDbContext> options):base(options)
         {
             
         }

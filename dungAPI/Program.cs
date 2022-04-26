@@ -3,7 +3,7 @@ using dungAPI.dungServicesRegister;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.addDungServicesRegister();
+builder.Services.addDungServicesRegister(builder.Configuration);
 
 var app = builder.Build();
 

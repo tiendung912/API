@@ -1,8 +1,11 @@
+using dungDAL.dungContext;
+using Microsoft.EntityFrameworkCore;
+
 namespace dungAPI.dungServicesRegister
 {
     public static class dungServicesRegister
     {
-        public static void addDungServicesRegister(this IServiceCollection serviceDescriptors)
+        public static void addDungServicesRegister(this IServiceCollection serviceDescriptors, IConfiguration configuration)
         {
             // Add services to the container.
 
@@ -10,6 +13,8 @@ namespace dungAPI.dungServicesRegister
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             serviceDescriptors.AddEndpointsApiExplorer();
             serviceDescriptors.AddSwaggerGen();
+            // Connect SQL
+            serviceDescriptors.AddDbContext<dungDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("dungConnectionString")));
         }
     }
 }

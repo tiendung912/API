@@ -8,9 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "dungAPI/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.4",
           "Microsoft.EntityFrameworkCore.Design": "6.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4",
           "Swashbuckle.AspNetCore": "6.2.3",
           "dungDAL": "1.0.0"
         },

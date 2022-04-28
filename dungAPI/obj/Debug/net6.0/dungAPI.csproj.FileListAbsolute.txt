@@ -89,3 +89,7 @@
 /media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/Humanizer.dll
 /media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/mono_crash.2207df118e.0.json
+/media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/AutoMapper.dll
+/media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/dungDDL.dll
+/media/danedung/dungStorage/Server/API/dungAPI/bin/Debug/net6.0/dungDDL.pdb

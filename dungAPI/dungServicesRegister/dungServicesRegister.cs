@@ -1,4 +1,7 @@
+using System.Reflection;
 using dungDAL.dungContext;
+using dungDDL.IRepositories;
+using dungDDL.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace dungAPI.dungServicesRegister
@@ -15,6 +18,10 @@ namespace dungAPI.dungServicesRegister
             serviceDescriptors.AddSwaggerGen();
             // Connect SQL
             serviceDescriptors.AddDbContext<dungDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("dungConnectionString")));
+            // Registed Services
+            serviceDescriptors.AddTransient<ICategoryRepository,CategoryRepository>();
+            // Registed Mapper
+            serviceDescriptors.AddAutoMapper(Assembly.GetExecutingAssembly());
         }
     }
 }
